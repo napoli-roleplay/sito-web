@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #041230;
+    background-color: #ffffff;
     color: #ffffff;
 }
 
@@ -64,7 +64,7 @@ body {
 
 .navbar {
     background-color: #ffffff;
-    border-bottom: 3px solid #041230;
+    border-bottom: 3px solid #ffffff;
     position: sticky;
     top: 0;
     z-index: 1000;
@@ -90,7 +90,7 @@ body {
 }
 
 .navbar a:hover, .navbar a.active {
-    color: #041230;
+    color: #ffffff;
 }
 
 .content {
@@ -108,9 +108,9 @@ body {
 }
 
 .section h2 {
-    color: #041230;
+    color: #ffffff;
     margin-bottom: 20px;
-    border-left: 4px solid #041230;
+    border-left: 4px solid #ffffff;
     padding-left: 10px;
 }
 
