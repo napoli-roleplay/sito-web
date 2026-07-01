@@ -63,7 +63,7 @@ body {
 }
 
 .navbar {
-    background-color: #ffffff;
+    background-color: #000000;
     border-bottom: 3px solid #ffffff;
     position: sticky;
     top: 0;
@@ -90,7 +90,7 @@ body {
 }
 
 .navbar a:hover, .navbar a.active {
-    color: #ffffff;
+    color: #000000;
 }
 
 .content {
