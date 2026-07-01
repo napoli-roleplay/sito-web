@@ -1,0 +1,5 @@
+Inserisci in questa cartella le tue immagini personalizzate rinominandole esattamente così:
+- banner.jpg (Immagine panoramica di sfondo in alto)
+- logo.png (Il logo del tuo server, preferibilmente con sfondo trasparente)
+- scena1.jpg (Primo screenshot/immagine per la galleria nella Home)
+- scena2.jpg (Secondo screenshot/immagine per la galleria nella Home)
