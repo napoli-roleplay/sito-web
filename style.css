@@ -63,7 +63,7 @@ body {
 }
 
 .navbar {
-    background-color: #1a1a1a;
+    background-color: #ffffff;
     border-bottom: 3px solid #041230;
     position: sticky;
     top: 0;
@@ -151,7 +151,7 @@ body {
 footer {
     text-align: center;
     padding: 25px 0;
-    background-color: #1a1a1a;
+    background-color: #ffffff;
     font-size: 0.9rem;
     color: #666;
     margin-top: 50px;
